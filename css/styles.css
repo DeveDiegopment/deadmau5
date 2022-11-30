@@ -1,0 +1,38 @@
+
+#MAU5SHOP{
+   background: url(https://cdn.shopify.com/s/files/1/0345/3068/9069/files/banner_1920x.png?v=1668674053);
+   background: cover;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+#row{
+   background-color: rgb(255, 255, 255);
+}
+
+#AD{
+   background-image:url(https://cryptoshitcompra.com/wp-content/uploads/2021/11/1636990127_DJ-Deadmau5-lanza-la-coleccion-NFT-Head5-en-OpenSea.png);
+   background: cover;
+   background-position: right;
+   background-repeat:no-repeat;
+   background-color: #1B0045;
+}
+
+#TITLE{
+   font-family: 'Arial Black', Gadget, sans-serif;
+}
+
+#DEAD{
+   font-family: 'Arial Black', Gadget, sans-serif;
+   font-size: 100px;
+
+}
+
+#MAU5{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#INICIO{
+   font-family: 'Arial Black', Gadget, sans-serif;
+   font-size: 100px;
+}
